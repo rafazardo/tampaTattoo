@@ -1,6 +1,6 @@
 # Tampa Tattoo
 
-A implementação web em questão foi criada com intuito de divulgar os produtos disponilizados pela marca Tampa Tattoo.
+A implementação web em questão foi criada com intuito de divulgar os produtos disponibilizados pela marca Tampa Tattoo.
 
 # Proposta
 
