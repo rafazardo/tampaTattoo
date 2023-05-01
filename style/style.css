@@ -1,0 +1,233 @@
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../fonts/Cinzel.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  overflow-x: hidden;
+  
+}
+
+.navbar-brand  {
+    margin-left: 10px;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.background-text-container {
+    margin-top: 7em;
+}
+
+.nav-item {
+    font-size: 23px;
+    padding: 10px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+}
+
+.nav-link {
+    color: white;
+}
+
+.background-image {
+    background-image: url("../img/banner2.png");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.background-text {
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+    margin-top: 12em;
+    padding: 20px;
+    color: white;
+}
+
+.background-text h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.background-text h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+.background-text p {
+    padding-top: 2rem;
+    font-size: 15px;
+}
+
+ .my-navbar-nav {
+    padding-right: 15rem; 
+}
+
+.btn-lg {
+    padding: 10px !important;
+    font-size: 2.0em !important;
+}
+
+.sobre {
+    background-color: #2d2d2d;
+    color: white;
+}
+
+.sobre h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    border-bottom: 5px solid white;
+}
+
+.sobre p {
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    line-height: 2em;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.sobreNosBanner {
+    background-image: url("../img/sobreNosBanner.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    border-left: 7px solid #116f11;
+    border-bottom: 7px solid #116f11;
+    border-right: 4px solid #222121;
+    border-top: 4px solid #222121;
+}
+
+.containerSobre {
+    padding: 100px;
+}
+
+.containerMestre {
+    padding: 50px;
+}
+
+.mestre {
+    background-image: url("../img/banner1.png");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    color: white;
+}
+
+.mestre h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    border-bottom: 5px solid white;
+}
+
+.mestre h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+}
+
+.mestre p {
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    line-height: 2em;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.mestreBanner {
+    background-image: url("../img/tampa.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 1500px;
+    height: 525px;
+}
+
+.mestre li {
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+}
+
+.projetos {
+    background-color: #222121;
+    color: white;
+}
+
+.containerProjetos img{
+    margin-top: 50px;
+}
+
+.containerProjetos {
+    padding-bottom: 50px;   
+}
+
+.projetos h1 {
+    text-transform: uppercase;
+    padding-top: 1em;
+    font-family: 'Cinzel', serif;
+    font-size: 40px;
+    border-bottom: 5px solid white;
+}
+
+.projetos img {
+    filter: grayscale(100%);
+    transition: filter 0.5s ease;
+  }
+  
+.projetos img:hover {
+    filter: grayscale(0%);
+}
+
+.contato {
+    color: white;
+    background-color: #2d2d2d;
+    
+}
+
+.containerContato {
+    padding: 100px;
+}
+
+.contato h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    border-bottom: 5px solid white;
+}
+
+.contato a {
+    font-size: 20px;
+}
+
+.contato a:hover {
+    color: #116f11;
+}
+
+.contato p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #116f11;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: #116f11;
+    border-bottom: 2px solid #116f11;
+}
