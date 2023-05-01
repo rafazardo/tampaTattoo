@@ -16,5 +16,5 @@ O sistema foi desenvolvido com o objetivo de aprimorar habilidades em tecnologia
 
 # Telas
 
-Para acessar a implementação desenvolvida e vizualisar as suas respectivas telas, basta clicar aqui 
+Para acessar a implementação desenvolvida e vizualisar as suas respectivas telas, basta [clicar aqui](https://rafazardo.github.io/tampaTattoo/index.html) 
 
